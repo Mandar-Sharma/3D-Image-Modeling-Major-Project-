@@ -1,4 +1,4 @@
-# 3D-Image-Modeling-Major-Project-
+#3D Modeling Using Uncalibrated Images
 
 Build a 3D model of any object simply by clicking pictures of them from your smartphone. 
 
